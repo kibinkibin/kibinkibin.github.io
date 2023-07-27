@@ -1,0 +1,109 @@
+.main-table {
+    background: linear-gradient(to bottom, #011763, #071D6C);
+    padding: 0;
+    border-radius: 5px;
+}
+
+.inner-table {
+    margin-left: 45px;
+    margin-right: 45; 
+    margin-top: 14; 
+    margin-bottom: 24;
+    background-color: #ffffff;
+    border-radius: 4px;
+}
+
+.logo {
+    margin-top: 32px;
+    margin-left: 32px;
+}
+
+.reg-logo {
+    height: 48px;
+    padding-top: 24px;
+    padding-bottom: 29px;
+}
+
+.username {
+    font-family: 'Montserrat', arial, sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: #1f3687;
+    padding-top: 0;
+    
+}
+
+.start-work {
+    font-family: 'Montserrat', arial, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: #1f3687;
+    padding-top: 10px;
+    padding-bottom: 43px;
+}
+
+.rocket {
+    position: relative;
+    height: 171px;
+    z-index: 1;
+      
+}
+
+.button {
+    position:relative;
+    background-color: #ff9900;
+    border-collapse: collapse;
+    box-shadow: 0 4px 5px #CCCCCC;
+    border-radius: 4px;
+    margin-top: -23px;
+    z-index: 2;
+
+}
+
+.button-sign {
+    color: #ffffff;
+    font-family: 'Montserrat', arial, sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    font-style: normal;
+    text-decoration: none;
+}
+
+.push-button{
+    font-family: 'Montserrat', arial, sans-serif;
+    color: #ff9900;
+    font-weight: 500;
+    font-size: 16px;
+    padding-top: 5px;
+}
+
+.reg-mistake {
+    font-family: 'Montserrat', arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #1f3687;
+    padding-bottom: 23px;
+}
+
+.footer-table {
+    background-color: #ffffff;
+    margin-left: 45px;
+    margin-right: 45; 
+    margin: 0;
+    border-left: #ffffff 0;
+    border-right: #ffffff 0;
+    border-bottom: #ffffff 0;
+    border-collapse: collapse;
+    border-top: #c7c7c7 1px;
+    overflow: hidden;
+    border-radius: 4px;
+    
+}
+
+.footer-sign {
+    font-family: 'Montserrat', arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #b3b3b3;
+    padding-bottom: 10px;
+}
